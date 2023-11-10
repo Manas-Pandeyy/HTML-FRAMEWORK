@@ -1,0 +1,28 @@
+3.Write a Short notes on tags,elements and attributes along with relevant examples?
+
+Ans.Tags:Tags are like keywords which defines that how web browser will format and display the content.with the help of tags,a web browswer can distinguish between an HTML content.With the help of tags a web browser can distinguish between an HTML content and a simple content.HTML tags contain three main parts:Opening tag,content and closing tag. but some HTML tags are unclosed tags.
+  
+*. All HTML tags must enclosed within <> thee brackets.
+
+*. Every tag in HTML Perform different task.
+
+*. If you have used an open tag <tag>,then you must use a close tag </tag>.
+
+Example:<p>paragraph tag</p>
+<p>:opening tag.
+</p>:Closing tag.
+
+Elements:Element in HTML usually consist of a start tag <tag name>,close tag </tag name> and content inserted between them.
+Technically element is a collection of start tag,attributes,end tag,content between them.
+
+Example:<h1>This is my first webpage</h>
+
+Attribute:HTML attribute are special words which provide additional information about the elements or attributes are the modifier of the Html element.
+
+Each Element or tg can have attributes which defines the behaviour of that element.
+
+The Hyml name nd values are case sensitive and t is recommended by W3C that it should be written in Lowercase only.
+
+Example:<p style="Height:50px; color:blue">It will add style property in an element</p>.
+ 
+
